@@ -1,6 +1,3 @@
-
-<img width="763" alt="Screenshot 2023-07-26 at 11 27 21 AM" src="https://github.com/JeHwanYoo/JeHwanYoo/assets/13535954/536a99f9-4110-4d5c-bad5-090d67508613">
-
 ## Fluent language ⭐️
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
