@@ -8,7 +8,7 @@ I favor `MongoDB` for NoSQL databases and know how to work with `PostgreSQL` for
 
 I'm skilled in implementing both `RESTful` and `GraphQL`. Recently, I've been exploring the use of `gRPC`.
 
-I am cloud-native, with expertise in `AWS`. For simple full-stack services, I use platforms like `Amplify` and `Vercel`.
+I am cloud-native, with expertise in `AWS`. For simple full-stack services, I use platforms like `Amplify` and `Vercel`. I have developed a habit of `dockerizing` all my development environments.
 
 Currently, I am learning how to develop and manage microservice architectures.
 
