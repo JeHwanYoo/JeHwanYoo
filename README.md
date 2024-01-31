@@ -2,7 +2,7 @@
 
 Nice to meet you. I'm Je-hwan Yoo, a `backend developer`. I'm also proficient enough in `frontend development` to make a living.
 
-I majored in Computer Science and Engineering and mainly focused on `Node.js` during my undergraduate years. Now, I predominantly work with `Nest.js` as my primary framework.
+I majored in Computer Science and Engineering and focused on `Node.js` during my undergraduate years. Now, I mainly work with `Nest.js` as my primary framework.
 
 I favor `MongoDB` for NoSQL databases and know how to work with `PostgreSQL` for relational databases.
 
