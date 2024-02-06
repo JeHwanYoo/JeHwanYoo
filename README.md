@@ -48,6 +48,13 @@ I favor development paradigms such as `Functional Programming`, `Dependency Inje
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) / ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+- I know the important AWS services well, like `VPC`, `EC2`, `ECS/ECR`, `S3`, `Lambda`, and `CodePipeline`.
+- I can read and write `AWS CloudFormation` templates. (IaC)
+- I can create `AWS CDK` with JavaScript or Go (IaC)
+- I can develop using the `AWS SDK` for Node.js.
+- I have experience deploying services using `AWS Amplify`.
+- I have experience deploying services using `Vercel`.
+
 ## Mobile
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
