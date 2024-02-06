@@ -47,6 +47,13 @@ I favor development paradigms such as `Functional Programming`, `Dependency Inje
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) / ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+- I believe semi-structured & NoSQL databases like `MongoDB` as the future.
+- I can use MongoDB's `aggregate` functions.
+- I can use session-based `transactions` in MongoDB.
+- I can use `text` and `geo` indexing in MongoDB.
+- I understand the basic level of `DCL`, `DDL`, and `DML` in `Postgres`.
+- I know how to integrate both MongoDB and Postgres with `ORMs` (`Mongoose`, `TypeORM`).
+
 ## API
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
