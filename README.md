@@ -30,7 +30,7 @@ I favor development paradigms such as `Functional Programming`, `Dependency Inje
 
 - I enjoy the concurrency features of `Go` language.
 - I use `Python` for solving coding tests. I used to be interested in data processing and machine learning as well.
-- During my undergraduate years, I spent many challenging days with `C/C++`.
+- During my undergraduate years, I spent many challenging days with `C/C++`. I might be interested in `Rust`...
 
 ## Framework & Library
 
