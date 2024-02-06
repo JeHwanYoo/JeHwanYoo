@@ -51,6 +51,9 @@ I favor development paradigms such as `Functional Programming`, `Dependency Inje
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+- Let's do TDD
+- I effectively use `dependency injection` and `mocking` for testing.
+
 ## Cloud Native
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) / ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -71,7 +74,10 @@ I favor development paradigms such as `Functional Programming`, `Dependency Inje
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+- Heard Flutter is all the rage these days, huh?
+
 ## Desktop
 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
+- I'm not really interested in making desktop apps.
