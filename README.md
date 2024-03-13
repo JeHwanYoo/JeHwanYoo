@@ -12,7 +12,7 @@ I am cloud-native, with expertise in `AWS`. For simple full-stack services, I us
 
 Currently, I am learning how to develop and manage microservice architectures.
 
-I favor development paradigms such as `Functional Programming`, `Dependency Injection (DI)`, `Test-Driven Development (TDD)`, and `Domain-Driven Design (DDD)`.
+I favor development paradigms such as `Functional Programming (FP)`, `Dependency Injection (DI)`, `Test-Driven Development (TDD)`, and `Domain-Driven Design (DDD)`.
 
 I think communication skills are very important as a developer, so I am practicing growing together by running a study group.
 
