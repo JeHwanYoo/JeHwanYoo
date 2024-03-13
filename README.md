@@ -89,7 +89,7 @@ I favor development paradigms such as `Functional Programming`, `Dependency Inje
 - I believe that `dockerizing` is the foundation of all development.
 - I'm still learning `Kubernetes`, but I understand the basic concepts.
 
-### Example
+### Practice
 
 - [cnk](https://github.com/JeHwanYoo/cnk)
 - [kubernetes-the-hard-way](https://github.com/JeHwanYoo/kubernetes-the-hard-way)
