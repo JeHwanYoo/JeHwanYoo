@@ -59,7 +59,7 @@ I think communication skills are very important as a developer, so I am practici
 - I have a deep understanding of the `Nest.js module system`.
 - I appreciate the `simplicity of Express.js`. When working with Express, I try to `avoid complex layers` and solve problems `functionally`.
 - I can create frontend apps with `React.js`. I'm really good at centering things. Trust me.
-- I'm currently studying Server-Side Rendering (SSR). But wasn't the WAS always about SSR? 😂
+- I'm currently studying Server-Side Rendering (SSR).
 
 ## DBMS
 
