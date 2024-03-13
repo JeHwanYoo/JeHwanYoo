@@ -33,8 +33,9 @@ I think communication skills are very important as a developer, so I am practici
 
 ### Showcase
 
-- [Node.js - HTTP/2 example](https://github.com/JeHwanYoo/node-http-2)
-- [Node.js - HTTP/2 - SSE example](https://github.com/JeHwanYoo/node-server-sent-events)
+- [Node.js - HTTP/2](https://github.com/JeHwanYoo/node-http-2)
+- [Node.js - HTTP/2 - SSE](https://github.com/JeHwanYoo/node-server-sent-events)
+- [Express - HTTP/2](https://github.com/JeHwanYoo/express-http-2)
 
 ## Second Language
 
