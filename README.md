@@ -29,6 +29,7 @@ I favor development paradigms such as `Functional Programming`, `Dependency Inje
 ### Showcase
 
 - [Node.js - HTTP/2 example](https://github.com/JeHwanYoo/node-http-2)
+- [Node.js - HTTp/2 - SSE example](https://github.com/JeHwanYoo/node-server-sent-events)
 
 ## Second Language
 
