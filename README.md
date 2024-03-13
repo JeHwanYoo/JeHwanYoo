@@ -77,8 +77,15 @@ I favor development paradigms such as `Functional Programming`, `Dependency Inje
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+### Description
+
 - Let's do TDD
 - I effectively use `dependency injection` and `mocking` for testing.
+
+### Showcase
+
+- [TDD by example using ts](https://github.com/JeHwanYoo/test-driven-development-by-example-ts)
+- [TDD basics using ts](https://github.com/hanghae99-plus-be-4/learn-typescript-with-tests)
 
 ## Cloud Native
 
@@ -89,7 +96,7 @@ I favor development paradigms such as `Functional Programming`, `Dependency Inje
 - I believe that `dockerizing` is the foundation of all development.
 - I'm still learning `Kubernetes`, but I understand the basic concepts.
 
-### Practice
+### Showcase
 
 - [cnk](https://github.com/JeHwanYoo/cnk)
 - [kubernetes-the-hard-way](https://github.com/JeHwanYoo/kubernetes-the-hard-way)
