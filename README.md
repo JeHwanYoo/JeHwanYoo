@@ -14,6 +14,11 @@ Currently, I am learning how to develop and manage microservice architectures.
 
 I favor development paradigms such as `Functional Programming`, `Dependency Injection (DI)`, `Test-Driven Development (TDD)`, and `Domain-Driven Design (DDD)`.
 
+I think communication skills are very important as a developer, so I am practicing growing together by running a study group.
+
+- [CommelierGroup](https://github.com/orgs/CommelierGroup/repositories)
+- [Hanghae plus - Backend 4th](https://github.com/orgs/hanghae99-plus-be-4/repositories)
+
 # Skills
 
 ## Native Language
