@@ -56,11 +56,17 @@ I think communication skills are very important as a developer, so I am practici
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) / ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) / ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) / ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+### Description
+
 - I can build both `monolithic` and `microservices` apps using `Nest.js`.
 - I have a deep understanding of the `Nest.js module system`.
 - I appreciate the `simplicity of Express.js`. When working with Express, I try to `avoid complex layers` and solve problems `functionally`.
 - I can create frontend apps with `React.js`. I'm really good at centering things. Trust me.
 - I'm currently studying Server-Side Rendering (SSR).
+
+### Showcase
+
+- [nest-k8s-deployment](https://github.com/JeHwanYoo/nest-k8s-deployment)
 
 ## DBMS
 
