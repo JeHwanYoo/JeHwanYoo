@@ -17,7 +17,7 @@ I favor development paradigms such as `Functional Programming (FP)`, `Dependency
 I think communication skills are very important as a developer, so I am practicing growing together by running a study group.
 
 - [CommelierGroup](https://github.com/orgs/CommelierGroup/repositories)
-- [Hanghae plus - Backend 4th](https://github.com/orgs/hanghae99-plus-be-4/repositories)
+- [Hanghae plus - Backend 사전스터디 4조](https://github.com/orgs/hanghae99-plus-be-4/repositories)
 
 # Skills
 
