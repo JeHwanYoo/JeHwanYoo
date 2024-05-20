@@ -125,7 +125,7 @@ I think communication skills are very important as a developer, so I am practici
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-- I can build a simple application using `React Native`. I tried just a little bit of `flutter`. I am not very interested in the mobile application development ecosystem.
+- I can build a simple application using `React Native`. I tried just a little bit of `flutter`.
 
 ## Desktop
 
