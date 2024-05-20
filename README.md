@@ -131,4 +131,4 @@ I think communication skills are very important as a developer, so I am practici
 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-- I'm not really interested in making desktop apps.
+- I can build a simple application using `Electron.js`
