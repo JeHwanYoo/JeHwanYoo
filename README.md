@@ -41,18 +41,19 @@ I think communication skills are very important as a developer, so I am practici
 
 ## Second Language
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) / ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) / ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) / ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) / ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) / ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) / ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
 ### Description
 
 - I enjoy the concurrency features of `Go` language.
 - I use `Python` for solving coding tests. I used to be interested in data processing and machine learning as well.
 - During my undergraduate years, I spent many challenging days with `C/C++`. I might be interested in `Rust`...
-- I really hate `PHP`, but it's a necessary evil for earning extra income with a side job.
+- I'm very interested in `Bun`, a completely new JavaScript runtime.
 
 ### Showcase
 
 - [go-concurrency](https://github.com/JeHwanYoo/go-concurrency.git)
+- [bun-playground](https://github.com/JeHwanYoo/bun-playground)
 
 ## Framework & Library
 
