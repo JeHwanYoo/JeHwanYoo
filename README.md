@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{JeHwanYoo}"/>
+</a>
+
 # About me
 
 Nice to meet you. I'm Je-hwan Yoo, a `backend developer`. I'm also proficient enough in `frontend development` to make a living.
