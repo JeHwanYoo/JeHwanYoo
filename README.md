@@ -26,10 +26,10 @@ I am practicing growing together by running a study group.
 
 # Certification
 
-![AWS Solutions Architect Badge](https://github.com/JeHwanYoo/JeHwanYoo/assets/13535954/7c4b7eed-44dc-4901-b195-9f5dca3e1cbd)
+![AWS Solutions Architect Badge (2)](https://github.com/JeHwanYoo/JeHwanYoo/assets/13535954/c03a3617-a380-40d8-99b4-6af735a6ff44)
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" width="100px" />
 </a>
 
 # Skills
