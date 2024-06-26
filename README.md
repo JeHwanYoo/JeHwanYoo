@@ -26,7 +26,9 @@ I am practicing growing together by running a study group.
 
 # Certification
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ce51dce3-79aa-4f8e-89e8-4f30ad391fee" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/ce51dce3-79aa-4f8e-89e8-4f30ad391fee/public_url">
+  <img src="https://www.credly.com/badges/ce51dce3-79aa-4f8e-89e8-4f30ad391fee/public_url" />
+</a>
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
