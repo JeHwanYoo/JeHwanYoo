@@ -26,9 +26,7 @@ I am practicing growing together by running a study group.
 
 # Certification
 
-<a href="https://www.credly.com/badges/ce51dce3-79aa-4f8e-89e8-4f30ad391fee/public_url">
-  <img src="https://www.credly.com/badges/ce51dce3-79aa-4f8e-89e8-4f30ad391fee/public_url" />
-</a>
+![AWS Solutions Architect Badge](https://github.com/JeHwanYoo/JeHwanYoo/assets/13535954/7c4b7eed-44dc-4901-b195-9f5dca3e1cbd)
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
