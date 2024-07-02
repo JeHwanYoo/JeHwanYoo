@@ -4,7 +4,9 @@
 
 # About me
 
-Nice to meet you. I'm Je-hwan Yoo, a `Backend & DevOps engineer`.
+Nice to meet you. I'm Je-hwan Yoo, a `Backend & DevOps` Engineer.
+
+I am currently working in the `Platform Engineering team` at BSG Partners.
 
 I majored in Computer Science and Engineering and focused on `Node.js` during my undergraduate years.
 
