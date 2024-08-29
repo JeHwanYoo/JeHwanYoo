@@ -18,12 +18,6 @@ I am cloud-native, with expertise in `AWS`. For simple full-stack services, I us
 
 I favor development paradigms such as `Functional Programming (FP)`, `Dependency Injection (DI)`, `Test-Driven Development (TDD)`, and `Domain-Driven Design (DDD)`.
 
-I am practicing growing together by running a study group.
-
-- [CommelierGroup](https://github.com/orgs/CommelierGroup/repositories)
-- [Hanghae plus - Backend 사전스터디 4조](https://github.com/orgs/hanghae99-plus-be-4/repositories)
-- [Hanghae plus - Backend 15조](https://github.com/orgs/hanhae-plus-be-fifteen-team/repositories)
-
 # Certification
 
 [![AWS Solutions Architect Badge (2)](https://github.com/JeHwanYoo/JeHwanYoo/assets/13535954/c03a3617-a380-40d8-99b4-6af735a6ff44)](https://www.credly.com/badges/ce51dce3-79aa-4f8e-89e8-4f30ad391fee)
