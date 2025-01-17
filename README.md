@@ -22,9 +22,21 @@ I am cloud-native, with expertise in `AWS`. I have developed a habit of `dockeri
 
 # Certification
 
-[![AWS Solutions Architect Badge (2)](https://github.com/JeHwanYoo/JeHwanYoo/assets/13535954/c03a3617-a380-40d8-99b4-6af735a6ff44)](https://www.credly.com/badges/ce51dce3-79aa-4f8e-89e8-4f30ad391fee)
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <a href="https://www.credly.com/badges/872ac50a-1a90-4eea-93a6-72e8d4d5912f/public_url" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3f0af61a-807c-4b0f-b75c-b026f71fdf9c" alt="AWS Certified DevOps Engineer Professional" style="width: 150px; height: auto;">
+  </a>
+  <a href="https://www.credly.com/badges/ce51dce3-79aa-4f8e-89e8-4f30ad391fee/public_url" target="_blank">
+    <img src="https://github.com/JeHwanYoo/JeHwanYoo/assets/13535954/c03a3617-a380-40d8-99b4-6af735a6ff44" alt="AWS Solutions Architect Badge" style="width: 150px; height: auto;">
+  </a>
+  <a href="https://www.credly.com/badges/39e69769-ce33-46e6-bb1f-c115d69a7ab9/public_url" target="_blank">
+    <img src="https://github.com/JeHwanYoo/JeHwanYoo/assets/13535954/7117c27f-b1d3-4ed6-8cd5-5272c9f4c198" alt="AWS Developer Associate Badge" style="width: 150px; height: auto;">
+  </a>
+</div>
 
-[![AWS Developer Associate Badge (1)](https://github.com/JeHwanYoo/JeHwanYoo/assets/13535954/7117c27f-b1d3-4ed6-8cd5-5272c9f4c198)](https://www.credly.com/badges/39e69769-ce33-46e6-bb1f-c115d69a7ab9)
+- AWS Certified DevOps Engineer – Professional
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Developer – Associate
 
 # Skills
 
