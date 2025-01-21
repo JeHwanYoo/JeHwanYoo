@@ -4,7 +4,7 @@
 
 # About me
 
-Nice to meet you. I'm Je-hwan Yoo, a `Backend & DevOps` Engineer.
+Nice to meet you. I’m Je-hwan Yoo, a Backend Engineer working at Wisely company.
 
 I majored in Computer Science and Engineering and focused on Node.js during my undergraduate years, where I also gave a presentation on the architecture of Node.js.
 
