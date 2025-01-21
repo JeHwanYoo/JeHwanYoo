@@ -6,19 +6,9 @@
 
 Nice to meet you. I’m Je-hwan Yoo, a Backend Engineer working at Wisely company.
 
-I majored in Computer Science and Engineering and focused on Node.js during my undergraduate years, where I also gave a presentation on the architecture of Node.js.
+I majored in Computer Science and Engineering and focused on Node.js during my undergraduate years.
 
-Programming Paradigms of Interest:
-
-- Object-Oriented Programming (OOP)
-- Aspect-Oriented Programming (AOP)
-- Functional Programming (FP)
-- Inversion of Control (IoC)
-- Dependency Inversion (DI)
-- Test-Driven Development (TDD)
-- Domain-Driven Development (DDD)
-
-I am cloud-native, with expertise in `AWS`. I have developed a habit of `dockerizing` all my development environments.
+I am cloud-native, with expertise in AWS. I am passionate about designing server architectures that prioritize high availability (HA) and disaster recovery (DR).
 
 # Certification
 
