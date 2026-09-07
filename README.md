@@ -8,7 +8,7 @@ Nice to meet you. I’m Je-hwan Yoo, a Backend Engineer working at Wisely compan
 
 I majored in Computer Science and Engineering and focused on Node.js during my undergraduate years.
 
-I am cloud-native, with expertise in AWS. I am passionate about designing server architectures that prioritize high availability (HA) and disaster recovery (DR).
+I focus on optimizing practical LLM workflows through deterministic systems, ontology-driven design, and robust SDLC practices.
 
 # Certification
 
