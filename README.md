@@ -49,7 +49,7 @@ I focus on optimizing practical LLM workflows through deterministic systems, ont
 
 ## Test
 
- ![Vitest](https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white) / ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+ ![Vitest](https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
 
 ## Container & Cluster
 
