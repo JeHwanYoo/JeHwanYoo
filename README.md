@@ -2,14 +2,6 @@
   <img src="https://render.gitanimals.org/farms/{JeHwanYoo}"/>
 </a>
 
-# About me
-
-Nice to meet you. I’m Je-hwan Yoo, a Backend Engineer working at Wisely company.
-
-I majored in Computer Science and Engineering and focused on Node.js during my undergraduate years.
-
-I focus on optimizing practical LLM workflows through deterministic systems, ontology-driven design, and robust SDLC practices.
-
 # Certification
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
